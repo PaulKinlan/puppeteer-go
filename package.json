@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-go",
+  "version": "1.0.0",
+  "description": "Puppeteer Convienience library - great for scripting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "Paul Kinlan",
+  "license": "Apache-2.0"
+}
