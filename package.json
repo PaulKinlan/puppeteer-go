@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-go",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Puppeteer Convienience library - great for scripting",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,11 @@
     "puppeteer"
   ],
   "author": "Paul Kinlan",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  },
+  "repository": {
+    "url": "https://github.com/PaulKinlan/puppeteer-go"
+  }
 }
