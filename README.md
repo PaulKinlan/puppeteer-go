@@ -33,7 +33,7 @@ go(url, callback)
 Why does this exist?
 --------------------
 
-I like building little scripts to automate actions on the we with puppeeteer but I kept forgetting the stanza to start a session, browser to a page ... that and my fingers kept getting tired.
+I like building little scripts to automate actions on the web with puppeteer but I kept forgetting the stanza to start a session, browser to a page ... that and my fingers kept getting tired.
 
 Examples
 --------
