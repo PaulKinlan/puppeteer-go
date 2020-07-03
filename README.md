@@ -38,7 +38,7 @@ I like building little scripts to automate actions on the web with puppeteer but
 Examples
 --------
 
-1. Screenshotting elements on a page
+1. Screen shotting elements on a page
 
 ```JavaScript
 const {go} = require('puppeteer-go');
