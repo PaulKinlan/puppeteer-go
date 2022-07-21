@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 
-const go = (url, func, options, auth=null) => {
+const go = (url, func, options, auth) => {
   return puppeteer.launch(options).then(async browser => {
     const page = await browser.newPage();
 
